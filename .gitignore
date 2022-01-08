@@ -1,0 +1,10 @@
+# emacs
+/.#*
+*~
+
+# Vivado
+/*.cache
+/*.hw
+/*.sim
+/*.runs
+
