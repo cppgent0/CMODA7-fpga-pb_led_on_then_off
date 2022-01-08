@@ -4,11 +4,12 @@ Press a button, turns the led on, press it again, turns the led off
 
 ## Prerequisites
 
-Vivado
+* Vivado correctly installed
+* device drivers correctly installed
+* CMOD-A7 FPGA board
 
 ## Assumptions
 * This uses Vivado installed on Ubuntu 20.04
-
 
 ## To install
 * clone the repo
@@ -57,8 +58,5 @@ Vivado
   * LD0 should stay lit (blue) and LD2 be off
 * click BTN0 => LD1 should turn off
   * LD0 should stay lit (blue) and LD2 be off
-
-
-*
      
   
