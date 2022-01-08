@@ -19,7 +19,7 @@ For the original code, see https://stackoverflow.com/questions/60930471/how-to-c
 * clone the repo
 * Open Vivado
 * click Open Project
-* navigate to the repo and select CMODA7-fpga-pd_led_blink.xpr
+* navigate to the repo and select CMODA7-fpga-pd_led_on_then_off.xpr
 
 ## To run
 * find "SYNTHESIS" in left hand pane
