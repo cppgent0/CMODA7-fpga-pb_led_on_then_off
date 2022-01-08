@@ -1,6 +1,11 @@
-# CMODA7-fpga-pb_led_blink
+# CMODA7-fpga-pb_led_on_then_off
 
-Press a button, turns the led on, press it again, turns the led off
+Press a button, turns the led on, press it again, turns the led off.
+
+Shows how to keep an internal state.
+
+For the original code, see 
+https://www.google.com/search?q=verilog+positive+edge+of+input&client=ubuntu&channel=fs&sxsrf=AOaemvJ6Nr2pl3ymulhQYtPoq0LZQ2R1dg%3A1641154394669&ei=WgfSYdmrKLbP0PEPjPmyyAg&ved=0ahUKEwjZwNzF8JP1AhW2JzQIHYy8DIkQ4dUDCA0&uact=5&oq=verilog+positive+edge+of+input&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIIxCwAxAnOgcIABBHELADOgYIABAWEB46BAgjECc6BQgAEIAEOgUIABCRAjoKCAAQgAQQhwIQFDoFCCEQqwI6BwghEAoQoAFKBAhBGABKBAhGGABQzSJY7bQBYKm2AWgRcAJ4AIAB3AGIAb4ikgEHMTEuMjguMZgBAKABAcgBCcABAQ&sclient=gws-wiz
 
 ## Prerequisites
 
